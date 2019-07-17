@@ -1,2 +1,3 @@
 FROM python
-ADD 
+ADD ../sources /sources
+
